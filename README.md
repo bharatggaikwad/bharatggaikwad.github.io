@@ -3,7 +3,7 @@
 👨‍💻 Software Architect and Developer | 🌍 Pune, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bharatgaikwad)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/bharatgaikwad)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/bharatgaikwad)
 [![Website](https://img.shields.io/badge/Website-Visit-green)](https://greatbharat.in)
 
 ## 👋 About Me
